@@ -24,7 +24,7 @@ Description: A Web 2.0 design with fluid width suitable for blogs and small webs
                 <h1>
                     <t:pagelink page="index">com.gscmcc.t5demo:t5demo</t:pagelink>
                     &nbsp;
-                    version ${appVersion}
+                     版本 ${appVersion}
                 </h1>
             </div>
             <div class="menu">
